@@ -1,0 +1,48 @@
+
+#img {
+    background: url(../../../public/Images/contactUs.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.fonth1 {
+    color: white;
+    font-size: 40px;
+    background-color: #12ccc9;
+    text-align: center;
+}
+.fontp {
+    color: white;
+    margin-top: 10px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+form {
+    color: white;
+    font-size: 20px;
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor: default;
+}
+input {
+    height: 3.5rem;
+    width: 20rem;
+    border: 3px solid purple;
+    margin-bottom: 20px;
+}
+textarea {
+    height: 3.5rem;
+    width: 20rem;
+    border: 3px solid purple;
+}
+.fontbtn {
+    color: white;
+    background-color: purple;
+    padding: 1rem;
+    font-size: 20px;
+}

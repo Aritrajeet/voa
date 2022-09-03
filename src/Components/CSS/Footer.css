@@ -1,0 +1,10 @@
+#foot{
+    background-color: rgb(107, 224, 240);
+}
+.footer_text{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: purple;
+}
