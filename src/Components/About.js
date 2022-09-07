@@ -1,5 +1,8 @@
 import React from "react";
 import "./CSS/About.css";
+
+import GUITARPNG from "../Images/electric-guitar.png";
+
 export default function About() {
   return (
     <section>
@@ -16,7 +19,7 @@ export default function About() {
           </p>
         </div>
         <div class="cards">
-          <img src="./images/electric-guitar.png" />
+          <img src={GUITARPNG} />
           <h3 class="addfont">Stage Performances</h3>
           <p class="pcards">
             Done a lot of stage performances at various places. Always love the
