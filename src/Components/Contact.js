@@ -1,6 +1,7 @@
 import React from "react";
 import "./CSS/Contact.css";
 export default function Contact() {
+  
   return (
     <section id="Contact">
       <div class="cont" id="img">
