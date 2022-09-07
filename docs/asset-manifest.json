@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.7180b2bb.css",
-    "main.js": "./static/js/main.a18654ca.js",
+    "main.js": "./static/js/main.92a107be.js",
     "static/media/aritra_img.jpg": "./static/media/aritra_img.0f02b2f8373d6da1e2c4.jpg",
     "static/media/contactUs.jpg": "./static/media/contactUs.8457942b19e0612e4694.jpg",
     "static/media/electric-guitar.png": "./static/media/electric-guitar.2a37c9532c7d675a8ad5.png",
+    "static/media/music.png": "./static/media/music.dff3e731654adba62dca.png",
+    "static/media/play.png": "./static/media/play.c50fea80f60cbeb0cba9.png",
     "index.html": "./index.html",
     "main.7180b2bb.css.map": "./static/css/main.7180b2bb.css.map",
-    "main.a18654ca.js.map": "./static/js/main.a18654ca.js.map"
+    "main.92a107be.js.map": "./static/js/main.92a107be.js.map"
   },
   "entrypoints": [
     "static/css/main.7180b2bb.css",
-    "static/js/main.a18654ca.js"
+    "static/js/main.92a107be.js"
   ]
 }
